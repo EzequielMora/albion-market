@@ -29,3 +29,6 @@ logs/
 .claude/
 Thumbs.db
 .DS_Store
+
+# Material de referencia de terceros (transcripciones)
+info/
