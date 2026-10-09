@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Secretos / config local
+.env
+*.local.*
+
+# Datos capturados y logs
+logs/
+*.jsonl
+*.pcap
+*.pcapng
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor / SO
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+.DS_Store
