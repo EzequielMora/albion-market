@@ -1,0 +1,6 @@
+psutil
+customtkinter
+# para generar el .exe (build.bat):
+# pyinstaller
+# opcional, solo con --backend npcap (requiere instalar Npcap):
+# scapy
